@@ -12,3 +12,5 @@
 I used stack overflow quite a bit and checked how peers were solving like situations to mine, especially when running into errors in the console.
 *Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this assignment might you want to showcase to a future employer?
 -My use of a hash function to send encrypted communications.
+
+
